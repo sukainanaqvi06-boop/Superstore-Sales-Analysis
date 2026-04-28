@@ -1,5 +1,6 @@
 # Superstore-Sales-Analysis
 Sales analysis project using Python, MySQL and Power BI
+<img width="1168" height="661" alt="superstore_dashboard png" src="https://github.com/user-attachments/assets/f4899ee2-5e5a-4416-812d-b4e22f8097da" />
 
 # Tools Used:
 * Python: Data cleaning aur exploration.
@@ -16,5 +17,5 @@ Sales analysis project using Python, MySQL and Power BI
 * superstore_project_queries.sql (SQL Code)
 * Superstore Sales Dashboard.pbix (Power BI File)
 
-<img width="1168" height="661" alt="superstore_dashboard png" src="https://github.com/user-attachments/assets/f4899ee2-5e5a-4416-812d-b4e22f8097da" />
+
 
